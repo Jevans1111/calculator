@@ -10,3 +10,7 @@ Run: python3 calculator.py
 Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
 
+## testing
+run command ./check.sh 
+the optupt should respond with 7 tests stating pas/fail, and exit status following echo $?
+
