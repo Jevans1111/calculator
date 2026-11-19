@@ -18,7 +18,8 @@ def test_divide_uneven():
 def test_add_negative():
    assert add(-2, -3) == -5
 
-def test_multiplt_by_zero():
+def test_multiply_by_zero():
    assert multiply(7, 0) == 0
 
-
+def test_circleArea():
+   assert CircleArea(-4) == "Error"
