@@ -1,4 +1,0 @@
-printf 'Temporary notes\n' > obsolete_notes.txt
-git add obsolete_notes.txt
-git commit -m "Add temporary notes"
-git push -u origin lab8-exam-release
